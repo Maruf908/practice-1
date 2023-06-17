@@ -76,4 +76,33 @@ p{
 .recipy-two{
     color: gray; 
     font-size: 50px;
+} 
+.top-half{ 
+    padding-left: 50px;
+    padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+   
+   
+}
+.top-half img{
+    width: 90%;
+    height: 50%;
+
+}
+.top-recipy{
+    font-size: 50px;
+} 
+.semi-final{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px grey;
+} 
+.semi-two{
+    margin-left: 250px;
+    text-align: center;
+    
 }
