@@ -92,17 +92,20 @@ p{
 }
 .top-recipy{
     font-size: 50px;
-} 
+}  
+.top-ten{
+    margin-top: 100px;
+    display: flex; 
+    justify-content: center;
+}
 .semi-final{
     display: flex;
-    margin-top: 100px;
-    margin-left: 50px;
-    margin-right: 50px;
-    border-radius: 20px;
+    border-radius: 20px; 
+   
     box-shadow: 10px 10px 20px grey;
 } 
 .semi-two{
-    margin-left: 250px;
+   padding: 0px 80px;
     text-align: center;
     
 } 
